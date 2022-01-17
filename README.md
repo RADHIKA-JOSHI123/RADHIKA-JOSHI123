@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="40%" src="1.jpg" height="10px"/></a>
+<a href="#"><img width="100%" height="40%" src="b1.jpg" height="10px"/></a>
 
 <h1 align="center">Hi <img src="11.gif" width="30px">, I'm Radhika Joshi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
