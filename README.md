@@ -1,18 +1,16 @@
 <a href="#"><img width="100%" height="40%" src="b1.jpg" height="10px"/></a>
 
 <h1 align="center">Hi 👋, I'm Radhika Joshi</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika-joshi123&label=Profile%20views&color=0e75b6&style=flat" alt="radhika-joshi123" /> </p>
 
-- 🔭 I’m currently working on [IncrementJobs Project](http://interviewasservice.biztechpartner.com/)
-
-- 📫 How to reach me **radhika.joshi@mitaoe.ac.in**
+- 🔭 I’m currently working on [ALPHA Project]
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate **in various internships**
+- 👯 I’m looking to collaborate **in various open source projects**
 
 - 👨‍💻 All of my projects are available at **https://github.com/RADHIKA-JOSHI123?tab=projects**
 
